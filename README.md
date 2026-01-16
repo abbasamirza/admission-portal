@@ -8,10 +8,10 @@
 **CLASS DIAGRAM START**
 
 1. Person/User
-    # Name (string)
-    # Date Of Birth (string)
-    # NIC (string)
-    + getters/setters()
+    - Name (string)
+    - Date Of Birth (string)
+    - NIC (string)
+    - getters/setters()
 
 1.1. Admin : Person/User
 
@@ -21,10 +21,12 @@
 
 **CLASS DIAGRAM END**
 
+---
+
 **PROGRAM START**
 
 1. Login/Signup Page
-    * SIGNUP PAGE *
+   **SIGNUP PAGE**
         - Ask for user type:
             • Admin
             • Teacher
@@ -32,7 +34,7 @@
         - Ask for NIC as ID
         - Ask for Password
         - Ask for Password Confirmation
-    * LOGIN PAGE *
+    **LOGIN PAGE**
         - Ask for NIC/NICOP as ID
         - Ask for Password
         - Check Password
