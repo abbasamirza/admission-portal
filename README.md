@@ -176,14 +176,8 @@ Name,NIC_Number,Password
 - Password strength indicator
 - Email/phone verification
 
-## 👤 Author
-
-**Abbas Amirza** ([@abbasamirza](https://github.com/abbasamirza))
-
 ## 📅 Project Information
 
-- **Created**: April 21, 2023
-- **Last Updated**: January 16, 2026
 - **Course**: Object-Oriented Programming (OOP) - Semester 2
 - **Institution**:  FAST-NU
 
